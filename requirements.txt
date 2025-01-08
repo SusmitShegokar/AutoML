@@ -1,0 +1,7 @@
+streamlit
+pandas
+ydata-profiling
+streamlit-pandas-profiling
+scikit-learn
+pickle-mixin
+pycaret
